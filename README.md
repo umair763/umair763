@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umair</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umair763" alt="umair763" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/umair763](https://github.com/umair763)
 
 - 📫 How to reach me **muhammadumairkhan945@gmail.com**
