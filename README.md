@@ -10,5 +10,5 @@ Hi 👋, I'm Muhammad Umair<br>A passionate front-end developer from Pakistan.<b
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=umair763&theme=algolia&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umair763&theme=algolia&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair763&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=umair763&theme=algolia&hide_border=true)<br/>username=umair763&theme=algolia&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
