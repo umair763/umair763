@@ -73,8 +73,10 @@ Beyond the front-end, I love working on **robust backend architectures** that po
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="[https://www.microsoft.com/en-us/sql-server](https://cdn-icons-png.flaticon.com/128/2772/2772128.png)" target="_blank"><img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/microsoft-sql-server.svg](https://cdn-icons-png.flaticon.com/128/2772/2772128.png)" alt="MSSQL" height="50" />
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+   <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png" alt="MSSQL" height="50" />
 </a>
+
 
 </div>  
 
