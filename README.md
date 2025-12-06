@@ -21,10 +21,9 @@
 
 
 ### Glad to see you here!  
-I’m a **web developer** who thrives on building **sleek, responsive, and high-performance applications**. With expertise in **React.js, Tailwind CSS, and JavaScript**, I specialize in creating **intuitive and visually engaging user interfaces** while ensuring seamless functionality. Whether it’s refining UI components, fixing bugs, integrating **Google Sign-In**, or optimizing **API interactions**, I focus on making every part of the application **smooth, scalable, and efficient**.  
+I’m a web developer passionate about building sleek, responsive, and high-performance applications. With expertise in React.js, Next.js, Tailwind CSS, JavaScript, and Node.js, I create intuitive, visually engaging user interfaces with seamless functionality. Whether it’s refining UI components, fixing bugs, integrating Google Sign-In, or optimizing API interactions, I ensure every part of the application runs smoothly, efficiently, and at scale.
 
-Beyond the front-end, I love working on **robust backend architectures** that power modern applications. I enjoy designing systems that are **light yet powerful, secure yet flexible**, ensuring everything runs seamlessly behind the scenes. From **database management to API optimization**, I take a structured, problem-solving approach to every challenge. Keeping up with the latest web technologies excites me, and I’m always looking for ways to **enhance performance, streamline workflows, and bring innovative ideas to life**.  
-  
+I’ve worked hands-on with MongoDB, SQL, AWS, DigitalOcean, Hostinger, Firebase, Express.js, JWT, and Passport.js, and have integrated major APIs like Facebook, Instagram, YouTube, and Twitter. I’ve also fine-tuned pretrained models like RoBERTa-base to add smart, cutting-edge features to applications.
 
 <br/>  
 
