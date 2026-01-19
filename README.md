@@ -96,10 +96,15 @@ With a keen interest in problem-solving and designing architecture for complex s
 <br/>
 
 ## Github Stats  
-![](https://github-readme-stats.vercel.app/api?username=umair763&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=umair763&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair763&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=umair763&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umair763&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
 
 <br/>  
 
